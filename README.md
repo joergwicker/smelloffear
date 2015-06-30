@@ -15,4 +15,4 @@ tppubtype = {inproceedings}
 }
 ```
 
-Please cite this paper when using the data set in your research. If you have any questions, contact feel free to contact wicker@uni-mainz.de.
+Please cite this paper when using the data set in your research. If you have any questions, feel free to contact wicker@uni-mainz.de.
