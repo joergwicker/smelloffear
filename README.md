@@ -1,4 +1,4 @@
-# smelloffear
+# The Smell of Fear
 
 The Smell of Fear data set. Information on the data set are available in
 
