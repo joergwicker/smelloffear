@@ -1,6 +1,6 @@
 # Kaggle
 
-The data is available on Kaggle: https://www.kaggle.com/jswicker/the-smell-of-fear
+The data is also available on Kaggle: https://www.kaggle.com/jswicker/the-smell-of-fear
 
 
 # The Smell of Fear
